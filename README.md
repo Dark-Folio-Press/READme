@@ -18,17 +18,18 @@ We're on a path of continuous learning as a **self-taught, AI-assisted developer
 ### Current Projects ###
 
 ☀️ [Darkfolio Daily Press](https://horoscopes.darkfoliopress.com/) — Free 
-Horoscopes hot off the daily press. 
+<br>Horoscopes hot off the daily press. 
 Classic zodiac readings for all 12 signs, delivered fresh every day.
 
 🔮 [Darkfolio Personal Horoscopes](https://horoscopes.darkfoliopress.com/personal) — Free 
-Calculated solely for you based on your cosmic blueprint. 
+<br>Calculated solely for you based on your cosmic blueprint. 
 Your birth chart. Your transits. Your story.
 
 ### What if you could hear your horoscope? ###
-With my Spotify Developer Account I set out to answer that question and came up with [Sonifyr - Free](https://sonifyr.darkfoliopress.com/) 
-**Sonifyr transforms your unique birth chart into playlists that you can feel**
-Calculations are by my OpenAi astro assistant: armed with a magnetic persona, and a very basic astrology program built with python, kerykeon and api's.
+[Sonifyr - Free](https://sonifyr.darkfoliopress.com/) 
+<br>With my Spotify Developer Account I set out to answer that question and came up with [Sonifyr](https://sonifyr.darkfoliopress.com/) 
+<br>**Sonifyr transforms your unique birth chart into playlists that you can feel**
+<br>Calculations are by my OpenAi astro assistant: armed with a magnetic persona, and a very basic astrology program built with python, kerykeon and api's.
 It harmonizes the mathematical and orbital ratios of the transiting planets to musical ones, resulting in 7 daily songs based on your unique date, time and location of birth. 
 
 **Note** Ideally I would have access to the entire length of the song for a proper sonifycation session. 
