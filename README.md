@@ -15,9 +15,27 @@ Welcome to Dark Folio Press: a small, independent publisher exploring the inters
 
 We're on a path of continuous learning as a **self-taught, AI-assisted developer**. Our codebase reflects an evolving understanding of how **symbolic systems**, **software constraints**, and **human agency** can coexist in creative harmony.
 
-### Current Projects
+### Current Projects ###
 
-- 🔮 **Horoscope App**: Daily astrological insights powered by custom algorithms
+☀️ [Darkfolio Daily Press](https://horoscopes.darkfoliopress.com/) — Free 
+Horoscopes hot off the daily press. 
+Classic zodiac readings for all 12 signs, delivered fresh every day.
+
+🔮 [Darkfolio Personal Horoscopes](https://horoscopes.darkfoliopress.com/personal) — Free 
+Calculated solely for you based on your cosmic blueprint. 
+Your birth chart. Your transits. Your story.
+
+### What if you could hear your horoscope? ###
+
+🎶 **Sonifyr** [Cosmic Playlist Generator](https://sonifyr.darkfoliopress.com/) - Free
+Where the cosmos becomes a playlist.
+###To sonify (verb)###: To translate data, structures, or systems into non-speech sound, revealing patterns and relationships through listening rather than sight.
+Sonifyr transforms your unique birth chart into personalized weekly playlists that you can actually feel.
+
+📜 The Dark Archive — The Archive is opening soon.
+For those who seek deeper scrolls.
+[Get notified when The Dark Archive unseals its doors!](https://www.darkfoliopress.com/coming-soon-01) 
+
 - 🚀 **More in Development**: Stay tuned as we push new projects and experiments to this space
 
 ## Philosophy
