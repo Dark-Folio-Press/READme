@@ -15,7 +15,10 @@ Welcome to Dark Folio Press: a small, independent publisher exploring the inters
 
 We're on a path of continuous learning as a **self-taught, AI-assisted developer**. Our codebase reflects an evolving understanding of how **symbolic systems**, **software constraints**, and **human agency** can coexist in creative harmony.
 
+
 ### Current Projects ###
+
+Symbolic Interpretive Engine
 
 ☀️ [Darkfolio Daily Press](https://horoscopes.darkfoliopress.com/) — Free 
 <br>Horoscopes hot off the daily press. 
