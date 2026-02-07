@@ -1,5 +1,5 @@
 # 🌙 Dark Folio Lab
-Bringing STories to Light ✨
+Bringing Stories to Light ✨
 
 ## About
 
@@ -19,7 +19,8 @@ I'm on a path of continuous learning as a **self-taught, AI-assisted developer**
 
 ### Current Projects ###
 
-Symbolic Interpretive Engine
+🤖[Astro Interpretive Engine](https://github.com/Dark-Folio-Press/Astro-Interpretative-Engine)
+This project is an experiment in interpretive system design: how to encode symbolic literacy, restraint, and ethical boundaries into an AI-assisted application.
 
 ☀️ [Darkfolio Daily Press](https://horoscopes.darkfoliopress.com/) — Free 
 <br>Horoscopes hot off the daily press. 
@@ -30,7 +31,7 @@ Classic zodiac readings for all 12 signs, delivered fresh every day.
 Your birth chart. Your transits. Your story.
 
 ### What if you could hear your horoscope? ###
-[Sonifyr - Free](https://sonifyr.darkfoliopress.com/) 
+[Sonifyr](https://sonifyr.darkfoliopress.com/) 
 <br>With my Spotify Developer Account I set out to answer that question and came up with [Sonifyr](https://sonifyr.darkfoliopress.com/) 
 <br>**Sonifyr transforms your unique birth chart into playlists that you can feel**
 <br>Calculations are by my OpenAi astro assistant: armed with a magnetic persona, and a very basic astrology program I built using python, Immanuel library, Swiss Ephemeris, kerykeon and api's.
@@ -38,7 +39,7 @@ Your birth chart. Your transits. Your story.
 It harmonizes the mathematical and orbital ratios of the transiting planets to musical ones, resulting in 7 daily songs based on your unique date, time and location of birth. 
 
 <i>Note Ideally I would have access to the entire length of the song for a proper sonifycation session. 
-Through Spotify I have a small window worth mere seconds to protect musicians and I think more to the point, bandwidth.
+Through Spotify I have a small window worth mere seconds - to protect the creative and intellectual rights of musicians, and I think more to the point, bandwidth.
 I'm down for working on a full sonifycation suite, using non commercial music in the future.
 In the meantime this has been an exceptionally fun project to work on. Plus, I had my mind blown over the relationship between math, music, time and geometry.</i>
 
