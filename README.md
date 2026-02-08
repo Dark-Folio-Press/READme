@@ -22,11 +22,11 @@ I'm on a path of continuous learning as a **self-taught, AI-assisted developer**
 🤖[Astro Interpretive Engine](https://github.com/Dark-Folio-Press/Astro-Interpretative-Engine)
 This project is an experiment in interpretive system design: how to encode symbolic literacy, restraint, and ethical boundaries into an AI-assisted application.
 
-☀️ [Darkfolio Daily Press](https://horoscopes.darkfoliopress.com/) — Free 
+☀️ [Darkfolio Daily Press](https://horoscopes.darkfoliopress.com/) 
 <br>Horoscopes hot off the daily press. 
 Classic zodiac readings for all 12 signs, delivered fresh every day.
 
-🔮 [Darkfolio Personal Horoscopes](https://horoscopes.darkfoliopress.com/personal) — Free 
+🔮 [Darkfolio Personal Horoscopes](https://horoscopes.darkfoliopress.com/personal) 
 <br>Calculated solely for you based on your cosmic blueprint. 
 Your birth chart. Your transits. Your story.
 
