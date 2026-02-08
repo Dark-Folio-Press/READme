@@ -3,7 +3,7 @@ Bringing Stories to Light ✨
 
 ## About
 
-Welcome to Dark Folio Press: a small, independent publisher exploring the intersection of **public domain works**, **original fiction**, and **digital innovation**.
+Welcome to the Codex of Dark Folio Press: a small, independent publisher exploring the intersection of **public domain works**, **original fiction**, and **digital innovation**.
 
 ### What We Publish
 
