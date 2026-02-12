@@ -56,6 +56,10 @@ For those who seek deeper scrolls.
 ## Meet the Developer
 My name is Sareenah and I'm a trained data analyst, with a background in art & design working in finance. 
 Dark Folio Press is an expression of my personal journey as a curious, data informed artist, with an obsession for the enduring power of story telling.
+I chose to work with astrological data because it is plentiful, stable and has a history of use stretching for thousands of years.
+I felt it was a trustworthy set of data to work with.
+Considering I am deeply interested in symbolic systems and previously studied astrology, it was a good fit.
+My first few forays into the system design revealed to me a myriad of ways I can use astrological calculations, which got me thinking about sonifycation, resulting in the creation of Sonifyr - transforms horoscopes, into playlists. Fun, Free and available on my github.
 
 ## Philosophy
 My work is guided by the belief that technology and tradition, data and storytelling, constraints and creativity aren't opposing figures, they're collaborators. Each line of code is a conversation between what was, what is, and what might be.
