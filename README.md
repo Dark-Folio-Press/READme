@@ -14,7 +14,7 @@ Welcome to the Codex of Dark Folio Press: a small, independent publisher explori
 
 ## The Development Journey
 
-I'm on a path of continuous learning as an AI-assisted developer. My codebase reflects an evolving understanding of how **symbolic systems**, **software constraints**, and **human agency** can coexist in creative harmony.
+I'm a trained artist and data anylist on a path of continuous learning as an AI developer. My codebase reflects an evolving understanding of how **symbolic systems**, **software constraints**, and **human agency** can coexist in creative harmony.
 
 
 ### Current Projects ###
