@@ -56,8 +56,9 @@ For those who seek deeper scrolls.
 🚀 **More in Development**: Stay tuned as we push new projects and experiments to this space
 
 ## Meet the Developer
-My name is Sareenah and I'm a trained data analyst with a background in art & design, working in finance. 
-Dark Folio Press is an expression of my personal journey as a curious, data informed artist, with an obsession for the enduring power of story telling.
+My name is Sareenah and I'm a trained data analyst with a background in story telling through art & design.  
+Dark Folio Press is an expression of my personal journey as a curious, data informed writer, with an obsession for the enduring power of story telling.
+
 I chose to work with astrological data because it is plentiful, stable and has a history of use stretching for thousands of years.
 
 I felt it was a trustworthy set of data to work with.
