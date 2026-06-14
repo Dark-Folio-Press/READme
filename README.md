@@ -8,9 +8,11 @@ Welcome to the Codex of Dark Folio Press: a small, independent publisher explori
 ### What We Publish
 
 - 💾 **[Open Source Codex](https://github.com/orgs/Dark-Folio-Press/repositories?q=visibility%3Apublic+archived%3Afalse)**: Check Dark Folio's Repo for ongoing updates and contributions
-- 📚 **Public Domain Works**: Carefully curated classics and forgotten gems from the literary past
-- ✍️ **Original Fiction**: New stories inspired by the data narratives and symbolic systems we love
+- 📚 **[Public Domain Library](https://www.darkfoliopress.com/new-page)**: Carefully curated classics and forgotten gems from the literary past
+- ✍️ **[Original Fiction](https://www.darkfoliopress.com/projects)**: New stories inspired by the data narratives and symbolic systems we love
 - ⭐ **Daily Horoscopes**: [Hot off the daily press](https://horoscopes.darkfoliopress.com) Created by our custom app, blending celestial wisdom with code
+-🌒  **Daily Planetary Oracle**: [Ephemeris with a bit of Magic]([https://horoscopes.darkfoliopress.com](https://oracle.darkfoliopress.com/)
+- 🦅 **The Oracle Of The Harpies[A guidance system from wounded to whole](https://dark-folio-press.github.io/The-Oracle-Of-Harpies/)
 
 ## The Development Journey
 
@@ -57,6 +59,7 @@ For those who seek deeper scrolls.
 My name is Sareenah and I'm a trained data analyst with a background in art & design, working in finance. 
 Dark Folio Press is an expression of my personal journey as a curious, data informed artist, with an obsession for the enduring power of story telling.
 I chose to work with astrological data because it is plentiful, stable and has a history of use stretching for thousands of years.
+
 I felt it was a trustworthy set of data to work with.
 Considering I am deeply interested in symbolic systems and previously studied astrology, it was a good fit.
 My first few forays into the system design revealed to me a myriad of ways I can use astrological calculations, which got me thinking about sonifycation, resulting in the creation of Sonifyr - transforms horoscopes, into playlists. Fun, Free and available on my github.
